@@ -27,6 +27,7 @@ cd e2e-data-engineering
 pip install apache-airflow
 pip install kafka-python
 ```
+
 3. Download Required Spark Connectors
 Download the following JARs from Maven Repository and place them in your Spark jars/ directory:
 
