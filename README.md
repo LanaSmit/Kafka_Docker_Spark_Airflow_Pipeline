@@ -34,15 +34,13 @@ Download the following JARs from Maven Repository and place them in your Spark j
 - Spark Cassandra Connector
 - Spark SQL Kafka Connector
 
-3. Run Docker Compose to spin up the service
-
-4. Start Docker Services
+3. Start Docker Services
 ```bash
 docker-compose up -d
 docker compose up -d control-center
 ```
 
-5. Check running services:
+4. Check running services:
 ```bash
 docker compose ps
 ```
