@@ -1,4 +1,4 @@
-#Real-Time Data Streaming | End-to-End Data Engineering Pipeline
+# Real-Time Data Streaming | End-to-End Data Engineering Pipeline
 ##Overview
 
 This project demonstrates a fully containerized end-to-end data engineering pipeline. It covers the complete data lifecycle from ingestion to streaming, processing, and storage using modern data engineering tools.
