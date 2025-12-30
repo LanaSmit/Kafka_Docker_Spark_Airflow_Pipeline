@@ -1,5 +1,5 @@
 # Real-Time Data Streaming | End-to-End Data Engineering Pipeline
-##Overview
+## Overview
 
 This project demonstrates a fully containerized end-to-end data engineering pipeline. It covers the complete data lifecycle from ingestion to streaming, processing, and storage using modern data engineering tools.
 
@@ -7,7 +7,7 @@ The pipeline ingests data from an external API, orchestrates workflows with Apac
 
 ![alt text](image.png)
 
-##Technologies
+## Technologies
 - Apache Airflow
 - Python
 - Apache Kafka
@@ -17,7 +17,7 @@ The pipeline ingests data from an external API, orchestrates workflows with Apac
 - PostgreSQL
 - Docker
 
-##Getting Started
+## Getting Started
 1. Navigate to the project directory:
 ```bash
 cd e2e-data-engineering
@@ -27,6 +27,7 @@ cd e2e-data-engineering
 pip install apache-airflow
 pip install kafka-python
 ```
+
 3. Download Required Spark Connectors
 Download the following JARs from Maven Repository and place them in your Spark jars/ directory:
 
